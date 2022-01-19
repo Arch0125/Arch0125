@@ -6,7 +6,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Arch0125/count.svg)
 
-- 🔭 I’m currently working on [Blockchain eKYC Consortium](https://github.com/Arch0125/Blockchain-eKYC-Consortium)
+- 🔭 I’m currently working on [Blockchain eKYC Consortium](https://github.com/Arch0125/Blockchain-eKYC-Consortium) , one of the Top 10 Projects at DotSlash5.0 Hackathon conducted by SVNIT,Surat
 
 - 🌱 I’m currently learning **Solidity, web3js**
 
