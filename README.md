@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Archisman Das</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&lines=A+Passionate+Blockchain+Developer;Opensource+contributor+at+Zulip)](https://git.io/typing-svg)
+[Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&lines=A+Passionate+Blockchain+Developer;Opensource+contributor+at+Zulip)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arch0125&label=Profile%20views&color=0e75b6&style=flat" alt="arch0125" /> </p>
 
