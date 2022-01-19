@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arch0125&label=Profile%20views&color=0e75b6&style=flat" alt="arch0125" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arch0125" alt="arch0125" /></a> </p>
-
 - 🔭 I’m currently working on [Blockchain eKYC Consortium](https://github.com/Arch0125/Blockchain-eKYC-Consortium)
 
 - 🌱 I’m currently learning **Solidity, web3js**
