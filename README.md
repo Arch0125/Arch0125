@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Archisman Das</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+Blockchain+Developer;Opensource+contributor+at+Zulip)](https://git.io/typing-svg)
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+Blockchain+Developer;Opensource+Contributor+at+Zulip)](https://git.io/typing-svg)
 
 <h3>Profile Visits</h3>
 
