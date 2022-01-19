@@ -49,3 +49,7 @@
 |  Contribution Graph  |  Most used languages  |
 |----------------------|-----------------------|
 | ![Metrics](/github-metrics.svg) |  ![Metrics](/metrics.plugin.languages.details.svg) |
+
+|           Issues and Pull Requests           |
+|----------------------------------------------|
+| ![Metrics](/metrics.plugin.followup.user.svg)|
