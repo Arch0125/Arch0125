@@ -46,6 +46,6 @@
 
 <!--![](./profile-3d-contrib/profile-night-view.svg)-->
 
-|  Contribution Graph  |
-|----------------------|
-| ![Metrics](/github-metrics.svg) |
+|  Contribution Graph  |  Most used languages  |
+|----------------------|-----------------------|
+| ![Metrics](/github-metrics.svg) |  ![Metrics](/metrics.plugin.languages.details.svg) |
