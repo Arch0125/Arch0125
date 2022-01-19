@@ -19,6 +19,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/arch0125" target="blank"><img align="center" src="https://img.shields.io/badge/Arch0125-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="arch0125"  /></a>
   <a href="https://twitter.com/Arch_0125" target="blank"><img align="center" src="https://img.shields.io/badge/Arch_0125-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="arch0125"  /></a>
+  <a href="https://www.instagram.com/dasarchisman25" target="blank"><img align="center" src="https://img.shields.io/badge/dasarchisman25-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="dasarchisman25"  /></a>
 </p>
 
 <h3 align="center">Coding Profiles:</h3>
