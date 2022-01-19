@@ -44,7 +44,4 @@
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arch0125&show_icons=true&theme=synthwave&locale=en" alt="arch0125" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arch0125&theme=synthwave" alt="arch0125" /></p>
+![](./profile-3d-contrib/profile-night-view.svg)
