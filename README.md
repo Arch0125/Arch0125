@@ -1,4 +1,44 @@
 <h1 align="center">Hi 👋, I'm Archisman Das</h1>
+<h1 align="center">Hi 👋, I'm Archisman Das</h1>
+2
+​
+3
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+Blockchain+Developer;Opensource+contributor+at+Zulip)](https://git.io/typing-svg)
+4
+​
+5
+​
+6
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arch0125&label=Profile%20views&color=0e75b6&style=flat" alt="arch0125" /> </p>
+7
+​
+8
+- 🔭 I’m currently working on [Blockchain eKYC Consortium](https://github.com/Arch0125/Blockchain-eKYC-Consortium)
+9
+​
+10
+- 🌱 I’m currently learning **Solidity, web3js**
+11
+​
+12
+- 💬 Ask me about **Blockchain**
+13
+​
+14
+- 📫 How to reach me **dasarchisman25@gmail.com**
+15
+​
+16
+<h3 align="left">Connect with me:</h3>
+17
+<p align="left">
+18
+<a href="https://linkedin.com/in/arch0125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arch0125" height="30" width="40" /></a>
+19
+<a href="https://www.codechef.com/users/dasarchis25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dasarchis25" height="30" width="40" /></a>
+20
+<a href="https://codeforces.com/profile/arch0125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+Blockchain+Developer;Opensource+contributor+at+Zulip)](https://git.io/typing-svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arch0125&label=Profile%20views&color=0e75b6&style=flat" alt="arch0125" /> </p>
