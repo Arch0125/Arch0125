@@ -50,10 +50,10 @@
 
 <!--![](./profile-3d-contrib/profile-night-view.svg)-->
 
-|  Contribution Graph  |  Most used languages  |
-|----------------------|-----------------------|
-| ![Metrics](/github-metrics.svg) |  ![Metrics](/metrics.plugin.languages.details.svg) |
+|🎯 Github Streaks and Trophies 🏆| 🏆 Github Stats 🔭|
+|----------------------------------|----------------------------|
+[![Arch0125's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Arch0125&theme=midnight-purple&hide_border=true)](https://github.com/Arch0125)|[![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arch0125&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/Arch0125)|[![Trophies](https://github-profile-trophy.vercel.app/?username=Arch0125&theme=juicyfresh&margin-w=0&no-frame=false)](https://github.com/Arch0125)
 
-|           Issues and Pull Requests           |  Coding Habits  |
-|----------------------------------------------|-----------------|
-| ![Metrics](/metrics.plugin.followup.user.svg)| ![Metrics](/metrics.plugin.habits.charts.svg) |
+|  Contribution Stats  |
+|----------------------|
+| ![](./profile-3d-contrib/profile-night-view.svg) |
