@@ -185,33 +185,33 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
-                            <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 36.60133370521565%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">46%</span>
+                            <span class="name">CSS</span>
+                            <div class="bar" style="width: 35.79702395701561%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">45%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">CSS</span>
-                            <div class="bar" style="width: 34.79905677121631%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">43%</span>
+                            <span class="name">JavaScript</span>
+                            <div class="bar" style="width: 35.35674695809804%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">44%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 4.555896447678694%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 4.686550424496929%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">6%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Solidity</span>
-                            <div class="bar" style="width: 3.971703136489262%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 4.085603620287171%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">5%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Handlebars</span>
-                            <div class="bar" style="width: 0.048682775932452654%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.05007890035081313%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 0.023327163467633562%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.023996139751431292%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
