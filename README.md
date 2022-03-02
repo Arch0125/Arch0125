@@ -11,6 +11,8 @@
 
 - 🔭 I’m currently working on [Blockchain eKYC Consortium](https://github.com/Arch0125/Blockchain-eKYC-Consortium) , one of the Top 10 Projects at DotSlash5.0 Hackathon conducted by SVNIT,Surat
 
+- 🔭 I’m currently working on [MicroPay](https://github.com/Arch0125/MicroPay-Hackathon) , won the following hackathons : Eventlore'22 and HackPrints 3.0
+
 - 🔭 I’m currently working on [CryptMyCert](https://github.com/Arch0125/CryptMyCert-Nakshatra) , won the best Solo Hack at Hackosphere 2022
 
 - 🌱 I’m currently learning **Solidity, web3js**
