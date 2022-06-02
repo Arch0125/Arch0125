@@ -9,13 +9,16 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Arch0125/count.svg)
 
-- 🔭 I’m currently working on [Blockchain eKYC Consortium](https://github.com/Arch0125/Blockchain-eKYC-Consortium) , one of the Top 10 Projects at DotSlash5.0 Hackathon conducted by SVNIT,Surat
+|  Projects|Hackathons|
+|-----------|---------|
+|PayStream|Best DeFi project built on Polygon at ETHernals'22|
+| CrossX | Winner CoinDCX Ventures Track at Warpspeed |
+| OFFSwap | 1st Runner up CoinDCX Ventures at Warpspeed |
+| MicroPay | Won Eventlore'22 (MLH) and hackPrints 3.0|
+| CryptMyCert | Won Solo hack at Hackosphere'22 |
+| Blockchain eKYC Consortium | Top 10 Projects at DotSlash 5.0 |
 
-- 🔭 I’m currently working on [MicroPay](https://github.com/Arch0125/MicroPay-Hackathon) , won the following hackathons : Eventlore'22 and HackPrints 3.0
-
-- 🔭 I’m currently working on [CryptMyCert](https://github.com/Arch0125/CryptMyCert-Nakshatra) , won the best Solo Hack at Hackosphere 2022
-
-- 🌱 I’m currently learning **Solidity, web3js**
+- 🌱 I’m currently learning **Graph Protocol, zkSnark**
 
 - 💬 Ask me about **Blockchain**
 
