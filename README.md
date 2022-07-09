@@ -31,13 +31,6 @@
   <a href="https://www.instagram.com/dasarchisman25" target="blank"><img align="center" src="https://img.shields.io/badge/dasarchisman25-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="dasarchisman25"  /></a>
 </p>
 
-<h3 align="center">Coding Profiles:</h3>
-<p align="center">
-<a href="https://www.codechef.com/users/dasarchis25" target="blank"><img align="center" src="https://img.shields.io/badge/dasarchis25-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="dasarchis25"/></a>
-<a href="https://codeforces.com/profile/arch0125" target="blank"><img align="center" src="https://img.shields.io/badge/Arch0125-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="arch0125"/></a>
-<a href="https://www.leetcode.com/dasarchisman25" target="blank"><img align="center" src="https://img.shields.io/badge/dasarchisman25-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="dasarchisman25"/></a>
-</p>
-
 <h3 align="center">Languages and Tools:</h3>
 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
