@@ -13,7 +13,7 @@
 | CrossX | Winner CoinDCX Ventures Track at Warpspeed | Cross-Chain Bridge Aggregator |
 | [OFFSwap](https://github.com/Arch0125/coindcxnext) | 1st Runner up CoinDCX Ventures at Warpspeed | OffChain Transaction signing for DEXes on different Chains |
 | [MicroPay](https://github.com/Arch0125/MicroPay-Hackathon) | Won Eventlore'22 (MLH) and hackPrints 3.0| P2P Crypto Lending protocol - NFT as collateral |
-| [CryptMyCert](https://github.com/Arch0125/CryptMyCert-Nakshatra) | Won Solo hack at Hackosphere'22 | NFT Ceertificates platform for Hackathons |
+| [CryptMyCert](https://github.com/Arch0125/CryptMyCert-Nakshatra) | Won Solo hack at Hackosphere'22 | NFT Certificates platform for Hackathons |
 | [Blockchain eKYC Consortium](https://github.com/Arch0125/Blockchain-eKYC-Consortium) | Top 10 Projects at DotSlash 5.0 | Decentralised KYC platform for Banks |
 
 - 🌱 I’m currently learning **Graph Protocol, zkSnark**
