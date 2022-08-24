@@ -6,14 +6,15 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Arch0125/count.svg)
 
-|  Projects|Hackathons|
-|-----------|---------|
-|PayStream|Best DeFi project built on Polygon at ETHernals'22|
-| CrossX | Winner CoinDCX Ventures Track at Warpspeed |
-| OFFSwap | 1st Runner up CoinDCX Ventures at Warpspeed |
-| MicroPay | Won Eventlore'22 (MLH) and hackPrints 3.0|
-| CryptMyCert | Won Solo hack at Hackosphere'22 |
-| Blockchain eKYC Consortium | Top 10 Projects at DotSlash 5.0 |
+|  Projects|Hackathons|Description|
+|-----------|---------|---------|
+|Salaried3|Polygon Fellowship'22 Buidler Track | ERC20 Payment Streams and Borrow against future salary without Collateral |
+|PayStream|Best DeFi project built on Polygon at ETHernals'22| Customised Payment Gateway for Crypto PoS systems |
+| CrossX | Winner CoinDCX Ventures Track at Warpspeed | Cross-Chain Bridge Aggregator |
+| OFFSwap | 1st Runner up CoinDCX Ventures at Warpspeed | OffChain Transaction signing for DEXes on different Chains |
+| MicroPay | Won Eventlore'22 (MLH) and hackPrints 3.0| P2P Crypto Lending protocol - NFT as collateral |
+| CryptMyCert | Won Solo hack at Hackosphere'22 | NFT Ceertificates platform for Hackathons |
+| Blockchain eKYC Consortium | Top 10 Projects at DotSlash 5.0 | Decentralised KYC platform for Banks |
 
 - 🌱 I’m currently learning **Graph Protocol, zkSnark**
 
