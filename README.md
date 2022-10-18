@@ -8,7 +8,7 @@
 
 |  Projects|Hackathons|Description|
 |-----------|---------|---------|
-|[Salaried3](https://github.com/Arch0125/salariedxyz)|Polygon Fellowship'22 Buidler Track | ERC20 Payment Streams and Borrow against future salary without Collateral |
+|[Salaried3](https://github.com/Arch0125/salariedxyz)| Polygon Fellowship'22 Buidler Track / Backed by ETHIndia Grants / encode x Polygon Accelerator | ERC20 Payment Streams and Borrow against future salary without Collateral |
 |[PayStream](https://github.com/Arch0125/PayStream)|Best DeFi project built on Polygon at ETHernals'22| Customised Payment Gateway for Crypto PoS systems |
 | [DevOnChain](https://github.com/Arch0125/devonchainnext) | encode x Polygon Hackathon | Decentralized platform for organizing Hackathons - NFT Gating,SBT Certificates/ Prize Pools/ Ownership rights of Projects |
 | CrossX | Winner CoinDCX Ventures Track at Warpspeed | Cross-Chain Bridge Aggregator |
