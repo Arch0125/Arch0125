@@ -1,7 +1,7 @@
 <h1 align="center"> <a href="#"><img width="30%" height="auto" src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" height="175px"/></a></h1>
 
 <h1 align="center">Hi 👋, I'm Archisman Das</h1>
-<h2 align = "center"> Fullstack web3 Developer | Polygon Fellow'22 Builder Track | Dev @EPNS | EIP-1620 <h2/>
+<h2 align = "center"> Fullstack web3 Developer | Polygon Fellow'22 Builder Track | Dev @Push Protocol <h2/>
 <h3>Profile Visits</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/Arch0125/count.svg)
