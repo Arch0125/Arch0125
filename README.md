@@ -54,12 +54,4 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-<!--![](./profile-3d-contrib/profile-night-view.svg)-->
-
-|🎯 Most used languages 🏆| 🏆 Github Stats 🔭|
-|----------------------------------|----------------------------|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arch0125&theme=midnight-purple&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats) | [![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arch0125&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/Arch0125)|
-
-|  Contribution Stats  |
-|----------------------|
-| ![](./profile-3d-contrib/profile-night-view.svg) |
+<img src="https://myreadme.vercel.app/api/embed/Arch0125?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
